@@ -19,7 +19,10 @@ function Landing() {
       <Link to="contact">Contact</Link>  
       </button>
       <button >
-      <Link to="contact">Delete Account</Link>  
+      <Link to="delete">Delete Account</Link>  
+      </button>
+      <button >
+      <Link to="privacy">Privacy Policy</Link>  
       </button>
      
     </div>
