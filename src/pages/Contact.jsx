@@ -5,7 +5,7 @@ function Contact() {
 
     <div>
         <h1>Contact</h1>
-    <p>Please email fulfillsupport@gmail.com with any questions</p>
+    <p>Please email fulfilhelp@gmail.com with any questions</p>
     </div>
   )
 }

@@ -18,8 +18,12 @@ function Landing() {
       <button >
       <Link to="contact">Contact</Link>  
       </button>
+      <button >
+      <Link to="contact">Delete Account</Link>  
+      </button>
      
     </div>
+    
    
   </>
   )
